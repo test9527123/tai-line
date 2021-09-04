@@ -65,6 +65,7 @@
   font-family: 'Adobe Thai'
 }
 .text2 {
+  margin-top:12px;
   text-align: center;
   color: #262626;
   font-size: 18px;
@@ -72,7 +73,7 @@
 .btn {
   text-align: center;
   color: #ffffff;
-  font-size: 14px;
+  font-size: 16px;
   font-family: 'Adobe Thai';
   border: 1px #fff solid;
   padding: 8px 12px;
